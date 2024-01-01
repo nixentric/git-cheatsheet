@@ -1,5 +1,5 @@
 # Apa itu ``Branch``?
 
-Branch atau cabang adalah sebuah fungsi yang berguna untuk fungsi git yang berguna untuk mengelola perubahan kode secara paralel.
+Branch atau cabang adalah sebuah fungsi git yang berguna untuk mengelola perubahan kode secara paralel.
 
-Maksud adalah
+## Apasih maksud dari pararel di branch git?
