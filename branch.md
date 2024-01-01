@@ -8,3 +8,8 @@ Branch atau cabang adalah sebuah fungsi git yang berguna untuk mengelola perubah
 - bug-fix (branch ke-3 - alternatif)
 
 Berikut adalah cheatsheet pada branch:
+
+| Command | Description |
+| ----------- | ----------- |
+| ```git branch``` | Untuk melihat branch yang digunakan saat ini |
+| ```git branch -a``` | Untuk melihat branch yang ada di project |
